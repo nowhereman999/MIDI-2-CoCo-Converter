@@ -1,0 +1,12 @@
+mid2coco converter V1.00 by Glen Hewlett
+
+A MIDI to TRS-80 Color Computer music converter.
+
+For help refer to the following websites:
+https://nowhereman999.wordpress.com/2017/12/15/midi-2-coco-converter/
+
+And the Tandy forum:
+http://tandyforum.org/index.php in the Software Projects section
+
+Cheers,
+Glen
